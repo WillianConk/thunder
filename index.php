@@ -5,7 +5,7 @@
 <h1>My first PHP Page<h1>
 
 <?php
-echo "I did it modafoca";
+echo "frango caiu na web 2.0";
 ?>
 
 </body>
