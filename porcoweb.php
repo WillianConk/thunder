@@ -12,7 +12,8 @@
 echo htmlentities("frango caiu na web, o porco tbm e o ilha é cotocooooooooooo");
 ?>
 
-<p><?php echo 'cotocagem sendo feita'; ?><p>
+<p><?php echo 'cotocagem sendo feita';
+'segue cotocagem sendo feita ainda'; ?><p>
 
 
 
