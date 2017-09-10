@@ -14,7 +14,7 @@ echo htmlentities("frango caiu na web, o porco tbm e o ilha é cotocooooooooooo"
 
 <p><?php echo 'segue cotocagem sendo feita ainda' ; ?><p>
 <p><?php $name = 'fica todo arrombadinho';
-echo "oq acontece com seu rabo: $name" ;
+echo "oq acontece com seu rabo: " . $name ;
 ?></p>
 
 
