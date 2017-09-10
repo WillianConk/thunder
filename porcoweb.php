@@ -12,7 +12,9 @@
 echo htmlentities("frango caiu na web, o porco tbm e o ilha é cotocooooooooooo");
 ?>
 
-porco caiu na webb
+<p><?php echo 'cotocagem sendo feita'; ?><p>
+
+
 
 </body>
 </html>
