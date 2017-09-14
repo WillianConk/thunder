@@ -12,8 +12,9 @@
 
 <?php
 echo htmlentities("â") ;
+echo "Desenvolvido por $name" ;
 ?>
-<?php echo "Desenvolvido por $name" ; ?>
+
 
 <?php $name = 'Willian' ; ?>
 
