@@ -11,11 +11,9 @@
 <h3>josicreyton</h3>
 
 <?php
-$name = 'Willian'
-echo htmlentities("arousen dauzen") ;
 echo htmlentities("$name") ;
 ?>
-
+<?php $name = 'Willian' ; ?>
 
 </body>
 </html>
