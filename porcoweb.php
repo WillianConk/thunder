@@ -11,7 +11,7 @@
 <h3>josicreyton</h3>
 
 <?php
-echo $name ; 
+echo "$name" ; 
 ?>
 
 <?php $name = 'Willian' ; ?>
