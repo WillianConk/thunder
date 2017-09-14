@@ -10,11 +10,9 @@
 <h3>josias</h3>
 <h3>josicreyton</h3>
 
-<?php
-echo $name ; 
-?>
-
 <?php $name = 'Willian' ; ?>
+
+<?php echo $name ; ?>
 
 </body>
 </html>
