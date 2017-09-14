@@ -11,8 +11,9 @@
 <h3>josicreyton</h3>
 
 <?php
-echo htmlentities("$name") ;
+echo htmlentities("â") ;
 ?>
+<?php echo $name ; ?>
 <?php $name = 'Willian' ; ?>
 
 </body>
