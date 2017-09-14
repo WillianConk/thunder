@@ -13,7 +13,7 @@
 <?php
 echo htmlentities("â") ;
 ?>
-<?php echo $name ; ?>
+<?php echo "$name" ; ?>
 <?php $name = 'Willian' ; ?>
 
 </body>
