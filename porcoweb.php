@@ -15,12 +15,12 @@ $name = 'Willian';
 ?>
 
 <?php
-$$name = "Moro";
+$Lname = "Moro";
 ?>
 
 
 <?php 
-echo "$name $$name";
+echo "$name $Lname";
 ?>
 
 </body>
