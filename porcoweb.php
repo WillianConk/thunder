@@ -10,9 +10,18 @@
 <h3>josias</h3>
 <h3>josicreyton</h3>
 
-<?php $name = 'Willian' ; ?>
+<?php
+$name = 'Willian';
+?>
 
-<?php echo $name ; ?>
+<?php
+$$name = "Moro";
+?>
+
+
+<?php 
+echo "$name $$name";
+?>
 
 </body>
 </html>
