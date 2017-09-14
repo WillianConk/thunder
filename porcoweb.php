@@ -20,7 +20,7 @@ $Lname = "Moro";
 
 
 <?php 
-echo "$name $Lname";
+echo "Criado por: $name $Lname";
 ?>
 
 </body>
