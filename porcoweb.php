@@ -15,8 +15,8 @@
     $number1 = 120;
     $number2 = 125;
     $number3 = 130;
-    $anothernum == $number1
-    $sum = $number1 + $number2 ;
+    $anothernum == $number1;
+    $sum = $number1 + $number2;
     echo "resultado =" . $sum ;
     echo $anoternum ;
     
