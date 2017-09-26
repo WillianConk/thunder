@@ -17,7 +17,12 @@
     $number3 = 130;
     $sum = $number1 + $number3 + $number2;
     echo "resultado " . $sum;
-    ($number1 == $number2);
+    $loggedin = true;
+    if ($loggedin = true) {
+        echo "welcome;"
+    } else {
+        echo "please, get out";
+    }
 
 ?>
 
