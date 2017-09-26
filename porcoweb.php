@@ -19,7 +19,7 @@
     echo "resultado " . $sum;
     $loggedin = true;
     if ($loggedin = true) {
-        echo "welcome;"
+        echo "welcome";
     } else {
         echo "please, get out";
     }
