@@ -4,7 +4,7 @@
     
 <?php
 
-    $name = $_POST["cotocagem"];
+    $name = $_POST["nome"];
     echo "ra ra yeah yeah, voce disse:" . $name;
     
 ?>
