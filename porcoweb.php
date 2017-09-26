@@ -16,7 +16,7 @@
     $number2 = 125;
     $number3 = 130;
     $sum = $number1 + $number2 + $number3;
-    echo $sum;
+    echo '. $sum resultado da soma' ;
 
 ?>
 
