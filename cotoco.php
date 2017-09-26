@@ -1,9 +1,9 @@
 <html>
-<head><title> faça seu login</title></head>
+<head><title>seu login</title></head>
 <body>
 
 <form action="process.php" method="post">
-    Digite a senha:<input name="nome" type="text">
+    Digite a senha:<input name="nomes" type="text">
     <input type="submit">
 </form>
 
