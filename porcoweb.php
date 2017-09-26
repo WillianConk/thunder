@@ -11,16 +11,13 @@
 <h3>josicreyton</h3>
 
 <?php
-$name = 'Willian';
-?>
 
-<?php
-$Lname = "Moro";
-?>
+    $number1 = 120;
+    $number2 = 125;
+    $number3 = 130;
+    $sum = $number1 + $number2 + $number3;
+    echo $sum;
 
-
-<?php 
-echo "outra coisa: $name $Lname";
 ?>
 
 </body>
