@@ -3,7 +3,7 @@
 <body>
 
 <form action="process.php" method="post">
-    Digite a senha:<input name="nomes" type="text">
+    Digite seu nome:<input name="nomes" type="text">
     <input type="submit">
 </form>
 
