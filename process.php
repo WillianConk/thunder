@@ -1,5 +1,5 @@
 <html>
-    <head>hey! dê o fora daqui</head>
+    <head>hey! de o fora daqui</head>
 <body>
     
 <?php
