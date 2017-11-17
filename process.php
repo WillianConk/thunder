@@ -1,11 +1,11 @@
 <html>
-    <head>porta dos desesperados</head>
+    <head>hey! dê o fora daqui</head>
 <body>
     
 <?php
 
     $name = $_POST["nomes"];
-    echo "Bem Vindo" . $name;
+    echo "AGORA! " . $name;
     
 ?>
     
