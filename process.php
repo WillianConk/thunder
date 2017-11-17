@@ -5,7 +5,7 @@
 <?php
 
     $name = $_POST["nomes"];
-    echo "ra ra yeah yeah, voce disse:" . $name;
+    echo "Bem Vindo" . $name;
     
 ?>
     
