@@ -23,9 +23,10 @@
     } else {
         echo "please, get out";
     }
-    $numbers = array('kabutin','floor','angel');
-    $numbers[] = 'blade';
-    print_r($numbers);
+    $numbers = array('kabutin' => 'batata' ,'floor' => 'cash','angel' => 'piroca');
+    
+    echo $numbers['kabutin'];
+    
 ?>
 
 </body>
