@@ -1,4 +1,6 @@
 <?php
+error_reporting(E_ALL);
+
 
 class Site
 {
@@ -19,5 +21,5 @@ class Site
     
 }
 
-error_reporting(E_ALL);
+
 Site::mostrar_html();
