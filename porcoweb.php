@@ -19,5 +19,5 @@ class Site
     
 }
 
-error_reporting(1);
+error_reporting(E_ALL);
 Site::mostrar_html();
