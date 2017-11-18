@@ -1,16 +1,22 @@
 <?php
 
-class Porco
+class Site
 {
-    
-    
-    public function roncar()
+    private function montar_link() 
     {
-        echo 'roooooooooinc';
+        return 'https://www.youtube.com/watch?v=3AEjrz7wF6M';
     }
     
+    private function montar_html()
+    {
+        return '<a href="'.$this->montar_link().'"></>';
+    }
+    
+    public function mostrar_html()
+    {
+        echo montar_html();
+    }
     
 }
 
-
-Porco::roncar();
+Site::mostrar_html();
