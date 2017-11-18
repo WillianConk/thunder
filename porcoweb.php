@@ -23,7 +23,8 @@
     } else {
         echo "please, get out";
     }
-
+    $numbers = array(120,125,130);
+    print_r($numbers);
 ?>
 
 </body>
