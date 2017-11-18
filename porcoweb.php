@@ -19,4 +19,5 @@ class Site
     
 }
 
+error_reporting(1);
 Site::mostrar_html();
