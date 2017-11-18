@@ -10,7 +10,7 @@ class Site
     {
         echo "<ul>";
         
-        foreach($cities as $city)
+        foreach($this->cities as $city)
         {
             echo "nome da cidade é: " . $city; 
         }
