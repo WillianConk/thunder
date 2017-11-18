@@ -8,7 +8,14 @@ class Site
     
     public function mostrar_html()
     {
-        echo $this->montar_html();
+        echo "<ul>";
+        
+        foreach($cities as $city)
+        {
+            echo "nome da cidade é: " . $city; 
+        }
+        
+        echo '</ul>';
     }
     
 }
