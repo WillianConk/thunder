@@ -12,7 +12,7 @@ class Site
         
         foreach($this->cities as $city)
         {
-            echo "nome da cidade é: " . $city; 
+            echo "<li> nome da cidade é: " . $city . "</li>";
         }
         
         echo '</ul>';
