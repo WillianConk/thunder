@@ -24,6 +24,7 @@
         echo "please, get out";
     }
     $numbers = array('kabutin','floor','angel');
+    $numbers[] = 'blade';
     print_r($numbers);
 ?>
 
