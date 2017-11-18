@@ -9,7 +9,7 @@ class Site
     
     private function montar_html()
     {
-        return '<a href="'.$this->montar_link().'"></>';
+        return '<a href="'.'"></>';
     }
     
     public function mostrar_html()
