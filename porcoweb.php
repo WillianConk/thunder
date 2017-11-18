@@ -23,10 +23,9 @@
     } else {
         echo "please, get out";
     }
-    $numbers = array('kabutin' => 'batata' ,'floor' => 'cash','angel' => 'piroca');
-    
-    echo $numbers['kabutin'];
-    
+    $numbers = array('kabutin','floor','angel');
+    echo $numbers[1];
+
 ?>
 
 </body>
