@@ -8,14 +8,14 @@ class Site
     
     public function mostrar_html()
     {
-        echo "<ul>";
+        echo "<ol>";
         
         foreach($this->cities as $city)
         {
             echo "<li> nome da cidade eh: " . $city . "</li>";
         }
         
-        echo '</ul>';
+        echo '</ol>';
     }
     
 }
