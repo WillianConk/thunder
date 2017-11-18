@@ -9,12 +9,12 @@ class Site
     
     private function montar_html()
     {
-        return '<a href="'.'"></>';
+        return '<a href="'.$this->montar_link().'"></>';
     }
     
     public function mostrar_html()
     {
-        echo montar_html();
+        echo $this->montar_html();
     }
     
 }
