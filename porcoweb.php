@@ -23,7 +23,7 @@
     } else {
         echo "please, get out";
     }
-    $numbers = array(120,125,130);
+    $numbers = array('kabutin','floor','angel');
     print_r($numbers);
 ?>
 
