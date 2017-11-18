@@ -24,4 +24,5 @@ class Site
 }
 
 
-Site::mostrar_html();
+$site = new Site;
+$site->mostrar_html();
