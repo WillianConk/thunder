@@ -23,8 +23,15 @@
     } else {
         echo "please, get out";
     }
-    $numbers = array('kabutin','floor','angel');
-    echo $numbers[1];
+    $numbers = array();
+
+    for($i = 0 ; $i < 1000 ; $i++)
+    {
+        $numbers[] = "batato";
+    }
+    
+    print_r($numbers);
+
 
 ?>
 
