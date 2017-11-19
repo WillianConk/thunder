@@ -8,9 +8,9 @@
     $name = $_POST["nomes"];
     echo "AGORA! " . $name;
     
-    while( $i <= 10) {
-        $value Si * 10;
-        echo "$i times 10 is $value";
+    while( $i <= 12) {
+        $value = $i * 12;
+        echo "$i times 12 is $value";
         $i++ ;
     }
 ?>
